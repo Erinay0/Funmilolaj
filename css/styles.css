@@ -1,0 +1,136 @@
+body{
+    margin:0px;
+    text-align:center;
+    font-family: 'Merriweather', serif;
+
+}
+.profile{
+    padding:100px;
+}
+
+.skills{
+    padding:80px;
+    padding-bottom: 0;
+}
+
+.contact-me{
+    padding:50px;
+    padding-bottom: 100px;
+}
+.cloud1{
+    position:absolute;
+    right:300px;
+    top:50px;
+}
+
+.cloud2{
+    position:absolute;
+    left:300px;
+    bottom:300px;
+}
+
+.top-container{ 
+    padding-top:100px;
+    background-color:#f8b195;
+    position:relative;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+
+.skill1-img{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+
+
+.skill2-img{
+    width:25%;
+    float: right;
+    padding-inline-start: 30px;
+}
+.bottom-container{
+    background-color: #66BFBF;
+    padding:20px;
+    padding-top:30px;
+    line-height:2;
+}
+.footer-link{
+    padding-right: 40px;
+    font-weight: bold;
+    position: relative;
+    top:10px;
+}
+#end{
+    color:#EAF6F6;
+    padding:30px 0 0 0;
+    font-size: 12px;
+    font-weight: lighter;
+    position: relative;
+    bottom:10px;
+}
+p{
+    color:#40514E;
+    font-weight: bold;
+}
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: bold;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif; 
+    color: #11999E;
+}
+hr{
+    width:50px;
+    border-width: 6px 0 0 0;
+    border-style: dotted none;
+    margin:0 auto 0 auto;
+    color:#EAF6F6;
+    
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.button{
+    background-color: #11999E;
+    border-radius: 10%;
+    border-style:none;
+    height:45px;
+    width:160px;
+    display:inline-block;
+}
+.btn{
+    font-family: 'Montserrat', sans-serif;
+    height:30px;
+    font-weight: bold;
+    font-size: large;
+    color:#EAF6F6;
+    padding:30px 0;
+}
+.contact{
+    padding-top:50px
+}
+.developer{
+    text-decoration: underline;
+}
